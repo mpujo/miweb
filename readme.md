@@ -2,16 +2,19 @@
 Esta es la documentación de la aplicación
 
 - Paso 1
- loerersdfdsf
+ provar
 
  - Paso 2
- ssdfdsfdsf
+ menjar
 
  - Paso 3
+jugar
 
  - Paso 4
+cantar
 
  - Paso 5
+dormir
 
 ## subtitulo
 
