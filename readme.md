@@ -16,11 +16,5 @@ cantar
  - Paso 5
 dormir
 
-## subtitulo
-
-sfdsfdsfdsfdsfdsfsd
-dsfdsfsdfsd
--  item 1
-- item 2
 
  
